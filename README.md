@@ -39,11 +39,7 @@ Durante el proyecto se realizaron varios análisis para comprender el comportami
 
 Se aplicó una transformación logarítmica para analizar mejor la distribución de los datos de ventas.
 
----
-
 ### Tendencia de ventas
-
-![Tendencia de ventas](images/sales_trend.png)
 
 Se analizó la evolución de las ventas a lo largo del tiempo para identificar patrones y variaciones semanales.
 
