@@ -114,3 +114,6 @@ También reforcé el uso de herramientas como **Python, SQL y Power BI** para an
 
 ## Archivos del proyecto
 
+El análisis completo puede consultarse en el notebook:
+
+`retail_sales_analysis.ipynb`
